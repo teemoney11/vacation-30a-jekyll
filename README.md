@@ -63,7 +63,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact
 For any inquiries or feedback, please contact us at:
-- Email: [contact@vacation-30a.com](mailto:contact@vacation-30a.com)
+- Email: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
 
 Thank you for visiting and contributing to **Vacation 30A**!
 
