@@ -19,6 +19,12 @@ Welcome to the official repository for the **Vacation 30A** landing page, hosted
 - Clear, concise content showcasing the beauty of the 5Tides vacation home.
 - Easy-to-use contact information and call to action.
 
+##Featured Images
+<img src="images/beach.jpg" alt="Beautiful Beach">
+<img src="images/beach.jpg" alt="Beautiful Beach">
+<img src="images/beach.jpg" alt="Beautiful Beach">
+
+
 ## Installation
 To get this project up and running locally, follow these steps:
 
