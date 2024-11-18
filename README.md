@@ -12,21 +12,12 @@ Welcome to the official repository for the **Vacation 30A** landing page, hosted
 - [Contact](#contact)
 
 ## About
-**Vacation 30A** is a simple, elegant landing page designed to attract visitors to the 5Tides vacation home. Located along the scenic County Road 30A, this beach retreat promises an unparalleled experience. https://5tidesfl.com
+**Vacation 30A** is a simple, elegant landing page designed to attract visitors to the 5Tides vacation home. Located along the scenic County Road 30A, this beach retreat promises an unparalleled experience. 
 
 ## Features
 - Responsive design for seamless viewing on any device.
 - Clear, concise content showcasing the beauty of the 5Tides vacation home.
 - Easy-to-use contact information and call to action.
-
-## Featured Images
-<img src="web_412 Topsail Village  _30.jpg" alt="Topsail Village Pool Area">
-<img src="web_412 Topsail Village  _31.jpg" alt="Topsail Village 30A">
-<img src="web_412 Topsail Village  _32.jpg" alt="Drone View of Topsail Village Pool and Building">
-<img src="web_412 Topsail Village  _33.jpg" alt="Drone View of 30A and Gulf of Mexico">
-<img src="web_412 Topsail Village  _34.jpg" alt="Drone View of 30A and Emerald Coast">
-
-
 
 ## Installation
 To get this project up and running locally, follow these steps:
