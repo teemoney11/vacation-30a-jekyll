@@ -20,7 +20,7 @@ Welcome to the official repository for the **Vacation 30A** landing page, hosted
 - Easy-to-use contact information and call to action.
 
 ## Featured Images
-<img src="web_412 Topsail Village  _30.jpg" alt="Beautiful Beach">
+<img src="web_412 Topsail Village  _30.jpg" alt="Topsail Drone View of 30A and Gulf of Mexico">
 <img src="web_412 Topsail Village  _31.jpg" alt="Beautiful Beach">
 <img src="web_412 Topsail Village  _32.jpg" alt="Beautiful Beach">
 <img src="web_412 Topsail Village  _33.jpg" alt="Beautiful Beach">
