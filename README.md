@@ -1,6 +1,6 @@
 # Vacation 30A Landing Page
 
-Welcome to the official repository for the **Vacation 30A** landing page, hosted on GitHub Pages and served through Cloudflare Pages. This project aims to provide a delightful online presence for the 5Tides vacation rental at Santa Rosa Beach, FL.
+Welcome to the official repository for the **Vacation 30A** landing page, hosted on GitHub Pages and served through Cloudflare Pages. This project aims to provide a delightful online presence for the 5Tides vacation rental at Santa Rosa Beach, FL just minutes from the beautiful sugary sand beaches of the Emerald Coast and the Gulf of Mexico.
 
 ## Table of Contents
 - [About](#about)
