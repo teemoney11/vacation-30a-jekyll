@@ -66,7 +66,7 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 
 ## Contact Info
 For any inquiries or feedback, please contact us at:
-- Email: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
+- Email: [contactus@vacation-30a.com](mailto:5tidesfl@gmail.com)
 - Website: https://5tidesfl.com
 
 Thank you for visiting and contributing to **Vacation-30A**!
