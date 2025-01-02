@@ -14,6 +14,9 @@ Welcome to the official repository for the **Vacation 30A with Jekyll** landing 
 ## About
 **Vacation 30A** is a simple, elegant landing page designed to attract visitors to the 5Tides vacation home. Located along the scenic County Road 30A, this beach retreat promises an unparalleled experience. 
 
+### Prerequisites 
+-Ruby and Jekyll installed
+
 ## Features
 - Responsive design for seamless viewing on any device.
 - Clear, concise content showcasing the beauty of the 5Tides vacation home.
