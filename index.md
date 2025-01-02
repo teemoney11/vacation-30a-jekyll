@@ -19,7 +19,7 @@ Your perfect beach retreat at Santa Rosa Beach, FL. Minutes away from the sugary
 - TESTING****TESTING***TESTING
 
 ## Contact Us
-Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
+Email us at: [contactus@vacation-30a.com](mailto:5tidesfl@gmail.com)
 
 ## Featured Images
 ![Topsail Village Pool Area](web_412 Topsail Village_30.jpg)
@@ -28,6 +28,10 @@ Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
 ![Drone View of 30A and Gulf of Mexico](web_412%20Topsail%20Village_33.jpg)
 ![Drone View of 30A and Emerald Coast](web_412%20Topsail%20Village_34.jpg)
 <img src="web_412 Topsail Village  _30.jpg" alt="Topsail Village Pool Area">
+<img src="web_412 Topsail Village  _31.jpg" alt="Topsail Village 30A">
+<img src="web_412 Topsail Village  _32.jpg" alt="Drone View of Topsail Village Pool and Building">
+<img src="web_412 Topsail Village  _33.jpg" alt="Drone View of 30A and Gulf of Mexico">
+<img src="web_412 Topsail Village  _34.jpg" alt="Drone View of 30A and Emerald Coast">
 
 
 ## More Information About Vacation-30A (please fill out our form)
