@@ -15,7 +15,7 @@ Your perfect beach retreat at Santa Rosa Beach, FL. Minutes away from the sugary
 - Free Wifi
 - Smart TVs in Each Bedroom and Living Room
 - Minutes from Topsail Preserve State Park
-- Modern Kitchen with Extra Amenities
+- Modern Kitchen with All the comforts of home
 
 ## Contact Us
 Email us at: [contact@vacation-30a.com](mailto:5tidesfl@gmail.com)
