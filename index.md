@@ -18,7 +18,7 @@ Your perfect beach retreat at Santa Rosa Beach, FL. Minutes away from the sugary
 - Modern Kitchen with Extra Amenities
 
 ## Contact Us
-Email us at: [contact@vacations-30a.com](mailto:contact@vacations-30a.com)
+Email us at: [contact@vacations-30a.com](mailto:contact@vacation-30a.com)
 
 ## Featured Images
 ![Topsail Village Pool Area](web_412 Topsail Village _30.jpg)
