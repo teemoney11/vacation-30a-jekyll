@@ -5,7 +5,7 @@ title: Home
 
 # Welcome to Vacation-30A
 
-Your perfect beach retreat at Santa Rosa Beach, FL. Minutes away from the sugary white sands of Florida's Emerald Coast.
+Your perfect beach retreat at Santa Rosa Beach, FL. Minutes away from the sugary white sands of Florida's Emerald Coast along the peaceful West End of 30A.
 
 ## Our Amenities
 - Located on Highway 30A on the Peaceful West End
